@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlBa-Log")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10f997cfa2e6fdd19d994ec349a02cb62eb56d39")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlBa-Log")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlBa-Log")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
