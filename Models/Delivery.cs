@@ -1,6 +1,8 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PäronTEST.Models
+
+namespace Models
 {
     // Model class representing the Delivery entity
     public class Delivery
